@@ -9,5 +9,7 @@ choco install visualstudiocode
 #NodeJS
 choco install nodejs.install
 
+#React
+npm install create-react-app -g
 
 
